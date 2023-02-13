@@ -6,6 +6,9 @@ Welcom to Gps Kitchen
 kheer 
 pasta
 
+beans
+pizza
+
 
 
 thank you :)
